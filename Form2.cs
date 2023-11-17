@@ -19,8 +19,7 @@ namespace Practic_1_Degtev
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try
-            {
+            try {
                 Encryption enc = new Encryption(textBox1.Text);
                 Form form = new Form3(enc);
                 Hide();
@@ -46,6 +45,5 @@ namespace Practic_1_Degtev
             Close();
             form.ShowDialog();
         }
-
     }
 }

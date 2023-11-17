@@ -32,8 +32,8 @@ namespace Practic_1_Degtev
             File.WriteAllText("KEY.txt", string.Empty);
             File.WriteAllText("TEXT.txt", string.Empty);
             StreamWriter SW = new StreamWriter(new FileStream("KEY.txt", FileMode.OpenOrCreate, FileAccess.Write), Encoding.GetEncoding(1251));
-            StreamWriter SW2 = new StreamWriter(new FileStream("TEXT.txt", FileMode.OpenOrCreate, FileAccess.Write), Encoding.GetEncoding(1251));
-
+            StreamWriter SW2 = new StreamWriter(new FileStream("TEXT.txt",  FileMode.OpenOrCreate, FileAccess.Write), Encoding.GetEncoding(1251));
+            
             SW.Write(textBox1.Text);
             SW2.Write(textBox2.Text);
             SW.Close();
@@ -57,6 +57,5 @@ namespace Practic_1_Degtev
         {
 
         }
-
     }
 }

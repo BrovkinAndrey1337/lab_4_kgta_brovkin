@@ -16,9 +16,9 @@ namespace Practic_1_Degtev
             txt = txt.ToUpper();
             string alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ+-=*&?^%$#@!;:()";
             bool engAlpha = false;
-            for (int i = 0; i < txt.Length; i++)
+            for (int i=0; i < txt.Length; i++)
             {
-                for (int j = 0; j < alpha.Length; j++)
+                for (int j=0; j < alpha.Length; j++) 
                 {
                     if (txt[i] == alpha[j])
                     {
@@ -36,7 +36,7 @@ namespace Practic_1_Degtev
             Encode();
         }
 
-        public Encryption(string txt, string key)
+        public Encryption (string txt, string key)
         {
             txt = txt.ToUpper();
             string alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ+-=*&?^%$#@!;:()";
@@ -132,5 +132,4 @@ namespace Practic_1_Degtev
             return text;
         }
     }
-
 }

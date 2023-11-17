@@ -89,12 +89,6 @@ namespace Practic_1_Degtev
             form.ShowDialog();
             Close();
         }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
     }
-}
+    }
 

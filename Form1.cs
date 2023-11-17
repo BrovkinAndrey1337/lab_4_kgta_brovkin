@@ -16,6 +16,7 @@ namespace Practic_1_Degtev
         {
             InitializeComponent();
         }
+
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -41,7 +42,5 @@ namespace Practic_1_Degtev
             form.ShowDialog();
             Close();
         }
-
-
     }
 }
