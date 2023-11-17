@@ -42,6 +42,37 @@ namespace Practic_1_Degtev
             Close();
         }
 
-
+        private void button3_Click(object sender, EventArgs e)
+        {
+            bool flag = true;
+            try
+            {
+                Encryption test = new Encryption("#привет");
+                flag = false;
+            }
+            catch (Exception ex) { }
+            try
+            {
+                Encryption test = new Encryption("");
+                flag = false;
+            }
+            catch (Exception ex) { }
+            try
+            {
+                Encryption test = new Encryption("сос мыслом&");
+                flag = false;
+            }
+            catch (Exception ex) {}
+            try
+            {
+                Encryption test = new Encryption("одна из этих бyкв на английской раскладке");
+                flag = false;
+            }
+            catch (Exception ex) { }
+            if (flag == true)
+                MessageBox.Show("Тест успешно проведен");
+            else
+                MessageBox.Show("Тест провален");
+        }
     }
 }
