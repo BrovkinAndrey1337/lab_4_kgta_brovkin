@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\bin\Debug\Practic 1 Degtev.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\bin\Debug\Practic 1 Degtev.exe
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\bin\Debug\Practic 1 Degtev.pdb
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic 1 Degtev.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic 1 Degtev.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic_1_Degtev.Form1.resources
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic_1_Degtev.Properties.Resources.resources
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic 1 Degtev.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic 1 Degtev.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic 1 Degtev.exe
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic 1 Degtev.pdb
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic_1_Degtev.Form2.resources
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic_1_Degtev.Form3.resources
+C:\Users\andre\OneDrive\Рабочий стол\openCV\Practic 1 Degtev\Practic 1 Degtev\obj\Debug\Practic_1_Degtev.Form4.resources
